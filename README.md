@@ -61,3 +61,4 @@ Penjelasan:
 - REDIS_URL: URL koneksi Redis
 
 ## Django Welcome Page
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/323b46bd-3569-430a-aa67-9309bb9390d6" />
